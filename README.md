@@ -1,4 +1,4 @@
-# :wave: Hi! I'm a student of double degree programme at IMT Atlantique in a Master of Science in Engineering
+# :wave: Hi! I'm a student of double degree programme at IMT Atlantique in a Master of Science in Engineering XX
 
 ### :smile: Here you'll find code examples about data engineering and electrical engineering that i've studied and worked.
 - I'm improving my abilities in data science and data engineering :computer:
